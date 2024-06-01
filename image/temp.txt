@@ -1,1 +1,0 @@
-This folder is responsible for holding all the resources(image files) required for the project.
